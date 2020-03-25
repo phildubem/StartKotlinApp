@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Start Kotlin App</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Full Name</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="second_text">ANUSIONWU PHILIP CHIDUBEM</string>
+    <string name="third_text">Slack Username</string>
+    <string name="fourth_text">PhilDubem</string>
+    <string name="fifth_text">Start.NG Email</string>
+    <string name="sixth_text">PHILDUBEM@GMAIL.COM</string>
+    <string name="seventh_text">Tracks</string>
+    <string name="eight_text">MOBILE and CODING</string>
+</resources>
